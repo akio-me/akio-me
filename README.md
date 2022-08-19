@@ -8,8 +8,6 @@
 - 📫 How to reach me: wolf.valentyn@gmail.com
 - 💻 My website-portfolio: <a href="https://valentynvowk.netlify.app/" target="_blank">https://valentynvowk.netlify.app/</a>             
 
----
-
 ## ⭐ Stats  
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wolfval&theme=solarized_dark)
