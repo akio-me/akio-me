@@ -6,7 +6,9 @@
 - 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React. 
 - 📫 How to reach me: wolf.valentyn@gmail.com
-- 💻 My website-portfolio: <a href="https://valentynvowk.netlify.app/" target="_blank">https://valentynvowk.netlify.app/</a>             
+- 💻 My website-portfolio: <a href="https://valentynvowk.netlify.app/" target="_blank">https://valentynvowk.netlify.app/</a>
+
+---
 
 ## ⭐ Stats  
 
