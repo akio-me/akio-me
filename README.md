@@ -3,7 +3,7 @@
   
 <br>
 
-- 🔭 I’m currently working on myself.
+- 🔭 I’m constantly working on myself.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React, Redux. 
 - 📫 How to reach me: wolf.valentyn@gmail.com
 - 💻 My website-portfolio: <a href="https://valentynvowk.netlify.app/" target="_blank">https://valentynvowk.netlify.app/</a>
